@@ -8,7 +8,7 @@ Receptet kräver en levande surdeg.
 
 Totala tidsåtgången inklusive jäsning är ca 60 timmar. Det går att få ner det
 till 40 timmar om man väljer att jäsa de formade bullarna i rumstemperatur
-istället för kall följd av varm jäsning.
+istället för kall jäsning följd av varm jäsning.
 
 1. Tangzhong - Ska stå kallt 10-12 timmar.
 2. Bulldeg -  Använder tangzhong. Ska jäsa 10-12 timmar i rumstemperatur, sedan
@@ -56,7 +56,7 @@ sönder, men fortsätt knåda i ungefär 10 minuter tills det är en deg igen. K
 ordentligt inblandat. Ev. smörklumpar i degen kommer göra så att den går sönder
 vid utkavling. Rundriv degen.
 
-Låt den börja jäsa i en bunke i rumstemperatur i 1-2 timmar, och låt den sedan
+Låt den börja jäsa i en bunke i rumstemperatur i 10-12 timmar, och låt den sedan
 jäsa i 10-12 timmar i kylskåpet, enklast över natten. Den ska minst dubbla i
 storlek.
 
@@ -77,8 +77,6 @@ kylen över natten.
 
 - 100g mandelmassa
 
-_TODO: Osäker på mängd_
-
 Ta fram degen och fyllningen ur kylskåpet ca 1-2 timmar innan användning så att
 de blir någorlunda rumstempererade.
 
@@ -91,20 +89,20 @@ Låt bullarna jäsa i kylskåp täckt på plåtar i 10-12 timmar, och sedan
 ytterligare 10-12 timmar, denna gång i rumstemperatur. Det går då bra att jäsa
 dem i en avslagen ugn utan handduk, eller bara med handduk utanför ugnen.
 
-_TODO: Osäker på om följande stämmer_
-
 Om bullarna ska gräddas direkt samma dag går det att jäsa dem i 1-2 timmar i
 rumstemperatur.
 
 ## Dekoration/gräddning
 
-- Sockerlag
-
-_TODO: Osäker på mängd_
+- Havremjölk för pensling
+- 2msk Pumpakärnor
+- Strösocker
+- Kardemumma
+- Sockerlag för pensling
 
 Sätt ugnen på 225 grader.
 
-Pensla bullarna med havremjölk. Toppa dem med hackad pumpakärnor, socker, och
+Pensla bullarna med havremjölk. Toppa dem med hackade pumpakärnor, socker, och
 lite kardemumma.
 
 Baka bullarna i 13 minuter.
