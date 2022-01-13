@@ -4,7 +4,7 @@ This sauce goes perfectly with dumplings!
 
 ## Ingredients
 
-- 1 tbsp Red chili paste
+- 1 tbsp Red curry paste
 - 2 tsp Mushroom soy sauce
 - 2 tsp Agave syrup
 - 2 tsp Tahini
